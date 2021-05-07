@@ -8,8 +8,13 @@ import java.util.Scanner;
  */
 public class Proyecto_java {
 
+    public String nombre;
+    public String apellidos;
+    public int edad;
+    public String estudio;
+    
     public static void main(String[] args) {
-        Scanner leer = new Scanner(System.in);
+        Scanner leer = new Scanner(System.in);                
     }
     
 }
